@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutations>
+<mutation detected='false' status='NO_COVERAGE' numberOfTestsRun='0'><sourceFile>HomeController.java</sourceFile><mutatedClass>com.example.hellospring.HomeController</mutatedClass><mutatedMethod>hola</mutatedMethod><methodDescription>()Ljava/lang/String;</methodDescription><lineNumber>12</lineNumber><mutator>org.pitest.mutationtest.engine.gregor.mutators.EmptyObjectReturnValsMutator</mutator><index>4</index><block>0</block><killingTest/><description>replaced return value with &#34;&#34; for com/example/hellospring/HomeController::hola</description></mutation>
+</mutations>
